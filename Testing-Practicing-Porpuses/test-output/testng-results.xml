@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-10T17:06:45 CST" name="Testing purposes Test Cases" finished-at="2024-07-10T17:06:49 CST" duration-ms="3738">
+    <groups>
+    </groups>
+    <test started-at="2024-07-10T17:06:45 CST" name="Test Suite" finished-at="2024-07-10T17:06:49 CST" duration-ms="3738">
+      <class name="org.Tests.TestCasesExamples">
+        <test-method signature="shouldDeleteRecordById()[pri:0, instance:org.Tests.TestCasesExamples@29b5cd00]" started-at="2024-07-10T17:06:45 CST" name="shouldDeleteRecordById" finished-at="2024-07-10T17:06:47 CST" duration-ms="1828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldDeleteRecordById -->
+        <test-method signature="shouldGetCommentsById()[pri:0, instance:org.Tests.TestCasesExamples@29b5cd00]" started-at="2024-07-10T17:06:47 CST" name="shouldGetCommentsById" finished-at="2024-07-10T17:06:47 CST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldGetCommentsById -->
+        <test-method signature="shouldGetPostsById()[pri:0, instance:org.Tests.TestCasesExamples@29b5cd00]" started-at="2024-07-10T17:06:47 CST" name="shouldGetPostsById" finished-at="2024-07-10T17:06:48 CST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldGetPostsById -->
+        <test-method signature="shouldGetPostsCommentsInformation()[pri:0, instance:org.Tests.TestCasesExamples@29b5cd00]" started-at="2024-07-10T17:06:48 CST" name="shouldGetPostsCommentsInformation" finished-at="2024-07-10T17:06:48 CST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldGetPostsCommentsInformation -->
+        <test-method signature="shouldGetPostsInformation()[pri:0, instance:org.Tests.TestCasesExamples@29b5cd00]" started-at="2024-07-10T17:06:48 CST" name="shouldGetPostsInformation" finished-at="2024-07-10T17:06:48 CST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldGetPostsInformation -->
+        <test-method signature="shouldPostNewRecord()[pri:0, instance:org.Tests.TestCasesExamples@29b5cd00]" started-at="2024-07-10T17:06:48 CST" name="shouldPostNewRecord" finished-at="2024-07-10T17:06:49 CST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldPostNewRecord -->
+        <test-method signature="shouldPutInRecordById()[pri:0, instance:org.Tests.TestCasesExamples@29b5cd00]" started-at="2024-07-10T17:06:49 CST" name="shouldPutInRecordById" finished-at="2024-07-10T17:06:49 CST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldPutInRecordById -->
+      </class> <!-- org.Tests.TestCasesExamples -->
+    </test> <!-- Test Suite -->
+  </suite> <!-- Testing purposes Test Cases -->
+</testng-results>
